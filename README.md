@@ -1,7 +1,8 @@
 # Sunucu-Siralama-Botu
 
 Ravgar kardeşim yapmışta, web tarafı aşırı kötü gidiyordu bende 2,3 el atayım dedim vakit bulunca oy tarafınıda yapıcam 
-#Güncelleme 
+
+# Güncelleme 
 
 Kanka üşendim ya takılın kafanıza göre :D
 
